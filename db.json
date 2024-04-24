@@ -2,22 +2,25 @@
   "blogs": [
     {
       "id": 1,
+      "author": "Ganang",
       "title": "16 little UI design rules that make a big impact.",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "publicationDdate": "Wed Apr 24 2024",
       "imgUrl": "https://solidwp.com/wp-content/uploads/2022/01/suvellecuisine-1024x581.png"
     },
     {
       "id": 2,
+      "author": "Bagus",
       "title": "Something wrong on the internet.",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "publicationDdate": "Wed Apr 24 2024",
       "imgUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/104ae2f9-becb-428f-a18e-f1f7a8664df3/davhql2-e8cdb81e-92d9-4b17-beac-8f666b59eea6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwNGFlMmY5LWJlY2ItNDI4Zi1hMThlLWYxZjdhODY2NGRmM1wvZGF2aHFsMi1lOGNkYjgxZS05MmQ5LTRiMTctYmVhYy04ZjY2NmI1OWVlYTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.r-iz8S-F5i5L4o_tB6OsH1AJCY5vHj_Qx0v5kubu9z0"
     },
     {
       "id": 3,
+      "author": "Prakoso",
       "title": "The Quiet Devastation of Extinction Capitalism.",
-      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       "publicationDdate": "Wed Apr 24 2024",
       "imgUrl": "https://media.licdn.com/dms/image/C5612AQEm-3OOt368ug/article-cover_image-shrink_720_1280/0/1637776433955?e=2147483647&v=beta&t=8WqpflgIZbjoPAQseqbdc9Sex7knwfG0JRUAM5Ng6E8"
     }
